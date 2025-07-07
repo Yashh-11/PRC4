@@ -1,7 +1,0 @@
-# PRC4 ![alt text](<Screenshot (20).png>) 
-![alt text](<Screenshot (19).png>) 
-![alt text](<Screenshot (18).png>) 
-![alt text](<Screenshot (17).png>) 
-![alt text](<Screenshot (16).png>) 
-![alt text](<Screenshot (15).png>) 
-![alt text](<Screenshot (14).png>)
